@@ -30,4 +30,4 @@ Projeto desenvolvido como parte de teste técnico. A aplicação permite listar,
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Jalesol/desafios-usuarios.git
+git clone https://github.com/Jalesol/desafio-usuários.git
